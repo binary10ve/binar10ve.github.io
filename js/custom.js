@@ -28,7 +28,7 @@
 		 * Background image
 		/* ---------------------------------------------- */
 
-		$('#intro').backstretch(['images/panaroma.png']);
+		$('#intro').backstretch(['images/panaroma.jpg']);
 
 		/* ---------------------------------------------- /*
  		 * Navbar 
